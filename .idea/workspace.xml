@@ -33,26 +33,54 @@
       <recent name="C:\Users\Shristi\PycharmProjects\yatra\smoke" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in linkVerification.py">
-    <configuration name="homePage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="luxuryescapes" />
+  <component name="RunManager" selected="Python tests.Unittests in linksPageTeses.py">
+    <configuration name="driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yatra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../luxuryescapes/testCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helpers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../luxuryescapes/testCases/homePage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helpers/driver.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in assignment2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../hello" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../hello/assignment2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in demo2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../hello" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../hello/demo2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in homePageTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -66,34 +94,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/smoke/homePageTests.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in homePage.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="luxuryescapes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../luxuryescapes/testCases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../luxuryescapes/testCases/homePage.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in linkVerification.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="luxuryescapes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../luxuryescapes/testCases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../luxuryescapes/testCases/linkVerification.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in linkVerification.py" />
-        <item itemvalue="Python tests.Unittests in homePage.py" />
         <item itemvalue="Python tests.Unittests in linksPageTeses.py" />
         <item itemvalue="Python tests.Unittests in homePageTests.py" />
-        <item itemvalue="Python.homePage" />
+        <item itemvalue="Python.driver" />
+        <item itemvalue="Python tests.Unittests in demo2.py" />
+        <item itemvalue="Python tests.Unittests in assignment2.py" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +135,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="438" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589536972914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589536972914" />
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588332956399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -143,42 +147,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588069316978" />
-    <state width="1344" height="319" key="GridCell.Tab.0.bottom" timestamp="1589200875521">
+    <state width="1344" height="198" key="GridCell.Tab.0.bottom" timestamp="1589542850638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="319" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589200875521" />
-    <state width="1344" height="319" key="GridCell.Tab.0.center" timestamp="1589200875521">
+    <state width="1344" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589542850638" />
+    <state width="1344" height="198" key="GridCell.Tab.0.center" timestamp="1589542850638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="319" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589200875521" />
-    <state width="1344" height="319" key="GridCell.Tab.0.left" timestamp="1589200875521">
+    <state width="1344" height="198" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589542850638" />
+    <state width="1344" height="198" key="GridCell.Tab.0.left" timestamp="1589542850638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="319" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589200875521" />
-    <state width="1344" height="319" key="GridCell.Tab.0.right" timestamp="1589200875521">
+    <state width="1344" height="198" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589542850638" />
+    <state width="1344" height="198" key="GridCell.Tab.0.right" timestamp="1589542850638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="319" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589200875521" />
-    <state width="1344" height="216" key="GridCell.Tab.1.bottom" timestamp="1589190403580">
+    <state width="1344" height="198" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589542850638" />
+    <state width="1344" height="216" key="GridCell.Tab.1.bottom" timestamp="1589461037878">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589190403580" />
-    <state width="1344" height="216" key="GridCell.Tab.1.center" timestamp="1589190403580">
+    <state width="1344" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589461037878" />
+    <state width="1344" height="216" key="GridCell.Tab.1.center" timestamp="1589461037878">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589190403580" />
-    <state width="1344" height="216" key="GridCell.Tab.1.left" timestamp="1589190403580">
+    <state width="1344" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589461037878" />
+    <state width="1344" height="216" key="GridCell.Tab.1.left" timestamp="1589461037878">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589190403580" />
-    <state width="1344" height="216" key="GridCell.Tab.1.right" timestamp="1589190403580">
+    <state width="1344" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589461037877" />
+    <state width="1344" height="216" key="GridCell.Tab.1.right" timestamp="1589461037878">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589190403580" />
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589267661914">
+    <state width="1344" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589461037878" />
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589544884368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589267661914" />
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589544884368" />
     <state x="489" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588682197156">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
